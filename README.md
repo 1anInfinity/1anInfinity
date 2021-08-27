@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Automation
 - 🌱 I’m currently learning React.js, Node.JS, VueJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: josephtucal29@gmail.com
+- 📫 You can reach me in this email: josephtucal29@gmail.com
 
 <!---
 1anInfinity/1anInfinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
